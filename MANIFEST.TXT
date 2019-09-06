@@ -1,0 +1,3 @@
+diaries_transactions_all.dta (application/x-stata-13)  skipped because the total size of the download bundle exceeded the limit of 10000000 bytes.
+diaries_transactions_all.tab (text/tab-separated-values)  skipped because the total size of the download bundle exceeded the limit of 10000000 bytes.
+README Financial Diaries Datasets User Guide v1.1.pdf (application/pdf) 3255688 bytes.
